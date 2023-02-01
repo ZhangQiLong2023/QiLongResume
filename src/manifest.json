@@ -1,0 +1,15 @@
+{
+    "name":"吴思里的在线简历",
+    "short_name":"吴思里简历",
+    "start_url":"index.html",
+    "icons":[
+        {
+            "src":"./src/img/resume/pwa-logo.png",
+            "sizes":"144x144",
+            "type":"image/png"
+        }
+    ],
+    "background_color":"pink",
+    "theme_color":"yellow",
+    "display":"standalone"
+}

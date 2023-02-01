@@ -1,0 +1,22 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "修改strong默认样式，拥有`代码块`效果",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "html2canvas": "^1.4.1",
+    "jspdf": "^2.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitee.com/wu-sili/resume.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
