@@ -9,8 +9,7 @@ body {
   font-size: 400px;
   color: #00c9b8;
   letter-spacing: 0;
-  text-shadow: 0 1px 0 #999, 0 2px 0 #888, 0 3px 0 #777, 0 4px 0 #666,
-    0 5px 0 #555, 0 6px 0 #444, 0 7px 0 #333, 0 8px 7px #001135;
+  text-shadow: 0px 1px 0px #999, 0px 2px 0px #888, 0px 3px 0px #777, 0px 4px 0px #666, 0px 5px 0px #555, 0px 6px 0px #444, 0px 7px 0px #333, 0px 8px 7px #001135;
   opacity: 0.05;
 }
 .my-backgroud .qian {
@@ -80,7 +79,7 @@ section.title .job .avartor {
   opacity: 0.9;
   margin-left: 10px;
   position: relative;
-  height: 43px;
+  height: 40px;
   width: 40px;
   overflow: hidden;
   border-radius: 50%;
@@ -101,6 +100,7 @@ section.contact {
   font-size: 15px;
   line-height: 25px;
 }
+/* body */
 .content-bd {
   padding: 0 20px;
   color: #444;
@@ -423,8 +423,7 @@ footer .footer-link .iconfont:hover {
   display: inline-block;
   padding: 0 5px;
   border-radius: 3px;
-  font-family: Menlo, "Helvetica Neue", Helvetica, "PingFang SC",
-    "Microsoft YaHei", "微软雅黑", Arial, sans-serif;
+  font-family: Menlo, "Helvetica Neue", Helvetica, "PingFang SC", "Microsoft YaHei", "微软雅黑", Arial, sans-serif;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -492,4 +491,7 @@ footer .footer-link .iconfont:hover {
   .page_footer_wrap .link {
     display: block;
   }
+}
+.program {
+  font-weight: 700;
 }
